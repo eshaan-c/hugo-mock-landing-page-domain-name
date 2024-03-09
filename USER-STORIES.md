@@ -11,7 +11,7 @@ This is a backlog of user stories for the myLearning companion, a tool designed 
 ### Other Features
 
 1. As a student, I want the MLC to connect me with a virtual tutor who can answer my questions and explain concepts in an interactive way, so I can get personalized help when I need it.
-2. As a student, I want the MLC to track my progress and visualize my learning journey, so I can see my achievements and stay motivated.
+2. As a student, I want the MLC to help me connect my learning to future career paths and skill development, so I can see how my education is relevant to my future goals.
 3. As a student, I want the MLC to offer gamified learning elements with points, badges, and leaderboards, so I can stay motivated and engaged in learning.
 
 ### Potential Features Expansion
@@ -19,7 +19,7 @@ This is a backlog of user stories for the myLearning companion, a tool designed 
 1. As a student, I want the MLC to provide AI-powered feedback and recommendations on my work, so I can understand my mistakes and learn more effectively.
 2. As a student, I want the MLC to allow me to customize my learning pathway by exploring topics beyond the curriculum that are related to my interests and future aspirations.
 3. As a student, I want the MLC to provide augmented reality learning experiences, such as interactive visuals and simulations, so I can engage with the material in a more immersive and interactive way.
-4. As a student, I want the MLC to help me connect my learning to future career paths and skill development, so I can see how my education is relevant to my future goals.
+4. As a student, I want the MLC to track my progress and visualize my learning journey, so I can see my achievements and stay motivated.
 5. As a student, I want the PLC to recommend additional learning resources, such as articles, videos, and books, to deepen my understanding of the topics I'm studying.
 6. As a teacher or parent, I want the PLC to generate personalized quizzes and assessments for students, based on their learning progress and areas of improvement, to help them reinforce their knowledge.
 7. As a student, I want the PLC to provide a platform for creating and sharing educational content with other users, so I can contribute to the learning community and learn from others.
