@@ -5,4 +5,4 @@ draft: false
 
 # About Us
 
-Made with ❤️ by the *myLearning Companion* [team](https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors).
+A product and website developed by [Eshaan Chichula](https://github.com/eshaan-c).
