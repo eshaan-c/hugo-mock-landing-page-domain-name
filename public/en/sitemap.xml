@@ -37,8 +37,13 @@
                 href="http://localhost:1313/hugo-bootstrap-theme/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/</loc>
+    <loc>http://localhost:1313/hugo-bootstrap-theme/authors/mark-otto/</loc>
     <lastmod>2024-02-20T16:52:32-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo-bootstrap-theme/</loc>
+    <lastmod>2024-03-10T17:44:37-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -51,11 +56,6 @@
                 hreflang="en-US"
                 href="http://localhost:1313/hugo-bootstrap-theme/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/authors/mark-otto/</loc>
-    <lastmod>2024-02-20T16:52:32-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/tags/</loc>
     <lastmod>2024-02-20T16:52:32-05:00</lastmod>
@@ -78,7 +78,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/about/</loc>
-    <lastmod>2024-02-20T16:52:32-05:00</lastmod>
+    <lastmod>2024-03-10T17:44:37-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

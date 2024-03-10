@@ -7,7 +7,7 @@ weight = 10
 name = "Sobre"
 url = "about"
 weight = 20
-title = "Feito com ❤️ pela equipa Hugo Bootstrap Theme"
+title = "Feito com ❤️ pela equipa myLearning Companion"
 
 [[social]]
   name = "GitHub"

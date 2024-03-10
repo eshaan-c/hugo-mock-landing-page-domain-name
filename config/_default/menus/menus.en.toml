@@ -7,7 +7,7 @@ weight = 10
 name = "About"
 url = "about"
 weight = 20
-title = "Made with ❤️ by the Hugo Bootstrap Theme team"
+title = "Made with ❤️ by the myLearning Companion team"
 
 [[main]]
 identifier = "blog"

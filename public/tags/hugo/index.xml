@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Hugo Bootstrap Theme</title>
+    <title>Hugo on myLearning Companion</title>
     <link>http://localhost:1313/hugo-bootstrap-theme/tags/hugo/</link>
-    <description>Recent content in Hugo on Hugo Bootstrap Theme</description>
+    <description>Recent content in Hugo on myLearning Companion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
@@ -24,11 +24,11 @@
       <description>This release is mostly motivated by the fix for the panic experienced by people having blackfriday configured as defaultMarkdownHandler (#9968). The Blackfriday support was removed in Hugo v0.100.0 after being deprecated with a warning for a long time.&#xA;v0.100.1 fix panic with markdownify/RenderString with shortcode on Page with no content file.&#xA;$page.RenderString (see #6703) finally supports shortcodes, and shortcode improvements is the main theme in Hugo 0.100.0.&#xA;Release Notes on GitHub.</description>
     </item>
     <item>
-      <title>Hugo Bootstrap Theme alpha</title>
+      <title>myLearning Companion alpha</title>
       <link>http://localhost:1313/hugo-bootstrap-theme/post/hugo-bootstrap-theme/</link>
       <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
       <guid>http://localhost:1313/hugo-bootstrap-theme/post/hugo-bootstrap-theme/</guid>
-      <description>Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&#xA;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&#xA;🛡️ Security aware&#xA;Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.&#xA;⚡ Fast by default&#xA;Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.</description>
+      <description>A tool designed to personalize the learning experience for students of all ages.&#xA;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&#xA;🛡️ Security aware&#xA;Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.&#xA;⚡ Fast by default&#xA;Get 100 scores on Google Lighthouse by default. myLearning Companion removes unused css, prefetches links, and lazy loads images.</description>
     </item>
     <item>
       <title>Hugo v0.99.1</title>
