@@ -2,74 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/pt/authors/</loc>
+    <loc>https://eshaan-c.github.io/hugo-mock-landing-page/pt/authors/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/hugo-bootstrap-theme/authors/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/hugo-bootstrap-theme/pt/authors/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/pt/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/pt/categories/</loc>
+    <loc>https://eshaan-c.github.io/hugo-mock-landing-page/pt/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/hugo-bootstrap-theme/categories/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/hugo-bootstrap-theme/pt/categories/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/pt/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/pt/</loc>
+    <loc>https://eshaan-c.github.io/hugo-mock-landing-page/pt/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/hugo-bootstrap-theme/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/hugo-bootstrap-theme/pt/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/pt/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/pt/series/</loc>
+    <loc>https://eshaan-c.github.io/hugo-mock-landing-page/pt/series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/hugo-bootstrap-theme/series/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/hugo-bootstrap-theme/pt/series/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/pt/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/pt/tags/</loc>
+    <loc>https://eshaan-c.github.io/hugo-mock-landing-page/pt/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/hugo-bootstrap-theme/tags/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/hugo-bootstrap-theme/pt/tags/"
+                href="https://eshaan-c.github.io/hugo-mock-landing-page/pt/tags/"
                 />
   </url>
 </urlset>
