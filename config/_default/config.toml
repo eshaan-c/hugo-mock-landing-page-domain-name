@@ -1,4 +1,4 @@
-baseURL: 'https://eshaan-c.github.io/hugo-mock-landing-page/'
+baseURL = 'https://eshaan-c.github.io/hugo-mock-landing-page/'
 title = "myLearning Companion"
 author = "Eshaan Chichula"
 copyright = "Eshaan Chichula"
