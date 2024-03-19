@@ -10,7 +10,7 @@ Author: Eshaan Chichula
 
 ## Automated Build and Deployment with GitHub Actions
 
-This repository uses a GitHub Actions workflow to automate the build and deployment process for the Hugo website. The workflow is defined in the `.github/workflows/deploy.yml` file.
+This repository uses a GitHub Actions workflow to automate the build and deployment process for the Hugo website. The workflow is defined in the `.github/workflows/gh_pages_deployment.yml` file.
 
 ### Workflow Overview
 
